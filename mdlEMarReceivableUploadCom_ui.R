@@ -9,7 +9,7 @@ tabItem(tabName = "mdlEMarReceivableUploadCom",
                                     #以上为注册ui组件的内容-----
                                     #begin----
                                     #uiComponent seperated by comma (,)
-                                    mdlEMsalOutStockUploadUI::arReceivableUI()
+                                    mdlEMarReceivableUploadUI::arReceivableUI()
                                      
                                     
                                     
